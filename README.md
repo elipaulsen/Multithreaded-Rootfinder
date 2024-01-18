@@ -11,7 +11,7 @@ Rootfinder takes from the input buffer, solves the polynomial, and adds the resu
 
 Both the input and output buffer were adapted from from textbook example CH23-FIG23_18-19 circular buffer and are thread safe. 
 
-![image](https://github.com/elipaulsen/Multithreaded-Rootfinder/assets/111461613/c8dcae9b-cacd-4711-ac92-0b992f2dba7c)
+![image](https://github.com/elipaulsen/Multithreaded-Rootfinder/assets/111461613/81d8b850-d77e-47e4-8848-e36f671eb70c)
 
 ### User Documentation
 Run the driver class to start the program. This will create 10 workers, and then give you the option to either solve 30 random polynomials or solve 3000 random polynomials and receive some data about each thread.
